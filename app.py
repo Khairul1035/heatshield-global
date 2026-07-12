@@ -1,4 +1,4 @@
-from pathlib import Path
+import math
 
 code = r'''
 import math
